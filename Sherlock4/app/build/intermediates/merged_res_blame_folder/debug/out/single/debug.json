@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xhdpi_settings.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xhdpi/settings.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable_buttonborder.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable/buttonborder.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_edin.jpeg.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/edin.jpeg"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-ldpi_userman2.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-ldpi/userman2.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_log_in.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/log_in.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_activity_resetting_password.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/activity_resetting_password.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_stat.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/stat.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_kamera3.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/kamera3.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable_logoall.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable/logoall.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_caroline.jpeg.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/caroline.jpeg"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-ldpi_info_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-ldpi/info_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_image_24.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_image_24.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-hdpi_userman2.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-hdpi/userman2.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_chart_edin_navbar.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-anydpi-v21/chart_edin_navbar.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_settings.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxxhdpi/settings.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_save_image.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/save_image.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-mdpi_info_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-mdpi/info_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_navbar_layout.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/navbar_layout.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_registration.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/registration.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_fragment_info.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_image_24.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_image_24.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_image_24.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_image_24.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_camera_image.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/camera_image.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_info_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxxhdpi/info_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_home_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxxhdpi/home_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_userman.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/userman.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-mdpi_userman2.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-mdpi/userman2.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_chart_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxhdpi/chart_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xhdpi_info_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xhdpi/info_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable_rectfolder.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable/rectfolder.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xhdpi_home_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xhdpi/home_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-hdpi_info_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-hdpi/info_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-mdpi_settings.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-mdpi/settings.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_kamera.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/kamera.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-hdpi_chart_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-hdpi/chart_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_michelle.jpeg.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/michelle.jpeg"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-hdpi_home_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-hdpi/home_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_about_us.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/about_us.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_password.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/password.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable_recttext.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable/recttext.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_chart_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxxhdpi/chart_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_image_24.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_image_24.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_info_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxhdpi/info_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_logo.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_image_24.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_image_24.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_sara.jpeg.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/sara.jpeg"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_userman2.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxxhdpi/userman2.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-ldpi_chart_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-ldpi/chart_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hus.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/hus.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_loginmail.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/loginmail.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-hdpi_settings.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xhdpi_userman2.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xhdpi/userman2.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_info.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/info.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_info_edin_navbar.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-anydpi-v21/info_edin_navbar.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_home_edin_navbar.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-anydpi-v21/home_edin_navbar.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-mdpi_chart_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-mdpi/chart_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/menu_options.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/menu/options.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_kameracircle.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable-xxhdpi/kameracircle.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-mdpi_home_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-mdpi/home_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_resetpass_pop.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/resetpass_pop.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable_app_icon.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/drawable/app_icon.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/menu_spinner1.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/menu/spinner1.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_image_24.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_image_24.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_image_24.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_image_24.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-ldpi_home_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-ldpi/home_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-ldpi_settings.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-ldpi/settings.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xhdpi_chart_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xhdpi/chart_edin_navbar.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_fragment_stats.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_userman2.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxhdpi/userman2.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_settings.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-anydpi-v21/settings.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_userman2.xml.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-anydpi-v21/userman2.xml"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_settings.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxhdpi/settings.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_home_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-xxhdpi/home_edin_navbar.png"
+    }
+]
