@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMversion4</string>
+    <string name="newAccount">Don’t have an account? Sign up <u>here</u></string>
+    <string name="AlreadyAccount">Already have an account? Sign in <u>here</u></string>
+    <string name="notVerified">Email not verified! Click here to resend email verification</string>
+    <string name="emailVerify">Email is not verified! <br />
+        <u>Click here</u>  to resend email verification</string>
+
+    <string name="body_prompt">Choose body part</string>
+    <string-array name="bodyparts_array">
+        <item>Right arm</item>
+        <item>Left arm </item>
+        <item>Right leg</item>
+        <item>Left leg</item>
+        <item>Upper back</item>
+        <item>Lower back</item>
+        <item>Chest</item>
+        <item>Butt</item>
+        <item>Stomach</item>
+        <item>Right shoulder</item>
+        <item>Left shoulder</item>
+        <item>Right foot</item>
+        <item>Left foot</item>
+        <item>Right hand</item>
+        <item>Left hand</item>
+        <item>Face</item>
+        <item>Neck</item>
+
+    </string-array>
+    <string name="saraInfo">Sara Jensen <br> MSc Biomedical Engineering </br> <br> s172828@student.dtu.dk </br></string>
+    <string name="Edininfo">Edin Sadikovic <br> MSc Data Engineering </br> <br> s151980@student.dtu.dk </br></string>
+    <string name="MichelleInfo">Michelle Skov Jensen <br> MSc Biomedical Engineering </br> <br> s164261@student.dtu.dk </br></string>
+    <string name="CarolineInfo">Caroline Nave Øhrstrøm <br> MSc Biomedical Engineering </br> <br> s160621@student.dtu.dk </br> </string>
+    <string name="aboutusInfo">This app investigates melanomas in order for you as a user to find out if your melanoma needs to be checked by a doctor. </string>
+
+    <string name="info">The first five letters of the alphabet are a guide to help you recognize the warning signs of melanoma.
+
+A is for Asymmetry. Most melanomas are asymmetrical. If you draw a line through the middle of the lesion, the two halves don’t match, so it looks different from a round to oval and symmetrical common mole.
+
+B is for Border. Melanoma borders tend to be uneven and may have scalloped or notched edges, while common moles tend to have smoother, more even borders.
+
+C is for Color. Multiple colors are a warning sign. While benign moles are usually a single shade of brown, a melanoma may have different shades of brown, tan or black. As it grows, the colors red, white or blue may also appear.
+
+D is for Diameter or Dark. While it’s ideal to detect a melanoma when it is small, it’s a warning sign if a lesion is the size of a pencil eraser (about 6 mm, or ¼ inch in diameter) or larger. Some experts say it is also important to look for any lesion, no matter what size, that is darker than others. Rare, amelanotic melanomas are colorless.
+
+E is for Evolving. Any change in size, shape, color or elevation of a spot on your skin, or any new symptom in it, such as bleeding, itching or crusting, may be a warning sign of melanoma.
+
+If you notice these warning signs, or anything NEW, CHANGING or UNUSUAL on your skin see a dermatologist promptly. The first five letters of the alphabet are a guide to help you recognize the warning signs of melanoma.
+
+A is for Asymmetry. Most melanomas are asymmetrical. If you draw a line through the middle of the lesion, the two halves don’t match, so it looks different from a round to oval and symmetrical common mole.
+
+B is for Border. Melanoma borders tend to be uneven and may have scalloped or notched edges, while common moles tend to have smoother, more even borders.
+
+C is for Color. Multiple colors are a warning sign. While benign moles are usually a single shade of brown, a melanoma may have different shades of brown, tan or black. As it grows, the colors red, white or blue may also appear.
+
+D is for Diameter or Dark. While it’s ideal to detect a melanoma when it is small, it’s a warning sign if a lesion is the size of a pencil eraser (about 6 mm, or ¼ inch in diameter) or larger. Some experts say it is also important to look for any lesion, no matter what size, that is darker than others. Rare, amelanotic melanomas are colorless.
+
+E is for Evolving. Any change in size, shape, color or elevation of a spot on your skin, or any new symptom in it, such as bleeding, itching or crusting, may be a warning sign of melanoma.
+
+If you notice these warning signs, or anything NEW, CHANGING or UNUSUAL on your skin see a dermatologist promptly.</string>
+
+</resources>
