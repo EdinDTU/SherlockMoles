@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Navstats"
+        android:title=""
+        android:icon="@drawable/chart_edin_navbar"/>
+
+    <item
+        android:id="@+id/Navhome"
+        android:title=""
+        android:icon="@drawable/home_edin_navbar"/>
+
+    <item
+        android:id="@+id/Navinfo"
+        android:title=""
+        android:icon="@drawable/info_edin_navbar"/>
+</menu>

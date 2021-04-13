@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64796470396",
+    "project_id": "sherlock4-19fd5",
+    "storage_bucket": "sherlock4-19fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64796470396:android:9b6d409fb20f8979536df9",
+        "android_client_info": {
+          "package_name": "com.course22056.sherlock4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64796470396-f63qm6ba1c0au9ibli2v87lld0u7if0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZwAsm1PB9tZsMKAn2KmGtsg7Y-fq4I1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64796470396-f63qm6ba1c0au9ibli2v87lld0u7if0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
