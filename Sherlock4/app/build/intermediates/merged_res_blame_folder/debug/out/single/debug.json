@@ -24,12 +24,12 @@
         "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-ldpi/userman2.png"
     },
     {
-        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
         "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/layout_log_in.xml.flat",
@@ -176,20 +176,20 @@
         "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-hdpi_info_edin_navbar.png.flat",
-        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-hdpi/info_edin_navbar.png"
-    },
-    {
         "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-mdpi_settings.png.flat",
         "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-mdpi/settings.png"
     },
     {
-        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-hdpi_info_edin_navbar.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/generated/res/pngs/debug/drawable-hdpi/info_edin_navbar.png"
     },
     {
         "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/build/intermediates/res/merged/debug/drawable-xxhdpi_kamera.png.flat",

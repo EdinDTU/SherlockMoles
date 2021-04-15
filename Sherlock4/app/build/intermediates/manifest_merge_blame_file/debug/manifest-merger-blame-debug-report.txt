@@ -59,12 +59,12 @@
 31        <activity android:name="com.course22056.sherlock4.AboutUs" />
 31-->/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:18:9-45
 31-->/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:18:19-42
-32        <activity android:name="com.course22056.sherlock4.login" />
-32-->/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:19:9-43
-32-->/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:19:19-40
-33        <activity android:name="com.course22056.sherlock4.MainActivity" >
+32        <activity android:name="com.course22056.sherlock4.MainActivity" />
+32-->/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:19:9-50
+32-->/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:19:19-47
+33        <activity android:name="com.course22056.sherlock4.login" >
 33-->/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:20:9-25:20
-33-->/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:20:19-47
+33-->/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:20:19-40
 34            <intent-filter>
 34-->/Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:21:13-24:29
 35                <action android:name="android.intent.action.MAIN" />

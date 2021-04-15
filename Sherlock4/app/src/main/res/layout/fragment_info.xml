@@ -36,19 +36,20 @@
         android:id="@+id/multiAutoCompleteTextView2"
         android:layout_width="315dp"
         android:layout_height="544dp"
-        android:editable="false"
         android:layout_marginStart="20dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
+        android:editable="false"
         android:scrollbars="vertical"
-        android:text="@string/info"
+        android:text="Melanoma is the most serious type of skin cancer which is developing in the cells (melanocytes) that produce melanin (melanocytes). Melanin is the pigment that gives your skin its color. The exact cause of why melanomas develop is not clear, but exposure to ultraviolet radiation from sunlight or tanning lamps increases your risk of developing melanoma. Limiting your exposure to UV radiation and the use of sunscreen reduces your risk of developing melanoma.\nIt is important to detect melanoma at an early stage since it will increase your chances for cure.\nThe ABCDEs can help you detect melanoma: \nA is for Asymmetry. Most melanomas are asymmetrical. If you draw a line through the middle of the lesion, the two halves do not match, so it looks different from a round to oval and symmetrical common mole.\nB is for Border. Melanoma borders tend to be uneven and may have scalloped or notched edges, while common moles tend to have smoother, more even borders.\nC is for Color. Multiple colors are a warning sign. While benign moles are usually a single shade of brown, a melanoma may have different shades of brown, tan or black. As it grows, the colors red, white or blue may also appear.\nD is for Diameter or Dark. While it is ideal to detect a melanoma when it is small, it is a warning sign if a lesion is the size of a pencil eraser (about 6 mm, or ¼ inch in diameter) or larger. Some experts say it is also important to look for any lesion, no matter what size, that is darker than others. Rare, amelanotic melanomas are colorless.\nE is for Evolving. Any change in size, shape, color or elevation of a spot on your skin, or any new symptom in it, such as bleeding, itching or crusting, may be a warning sign of melanoma.\n\nIf you notice these warning signs, or anything NEW, CHANGING or UNUSUAL on your skin see a dermatologist promptly.\n\n\nAnd remember: When in doubt, check it out!"
         android:verticalScrollbarPosition="right"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.178"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView2"
+        app:layout_constraintVertical_bias="0.0" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

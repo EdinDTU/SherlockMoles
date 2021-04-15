@@ -1,3 +1,4 @@
 include ':preproc'
 include ':app'
 rootProject.name = "Sherlock4"
+include ':openCVLibrary343'

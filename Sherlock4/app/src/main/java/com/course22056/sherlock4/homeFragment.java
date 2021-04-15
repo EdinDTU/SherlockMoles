@@ -117,7 +117,7 @@ public class homeFragment extends Fragment {
             legitText.setTextColor(getResources().getColor(R.color.black));
         }
 
-        verifyText.setOnClickListener(new View.OnClickListener() {
+       verifyText.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 fAuth.getCurrentUser().sendEmailVerification().addOnSuccessListener(new OnSuccessListener<Void>() {

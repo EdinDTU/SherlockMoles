@@ -163,14 +163,14 @@ activity#com.course22056.sherlock4.AboutUs
 ADDED from /Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:18:9-45
 	android:name
 		ADDED from /Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:18:19-42
-activity#com.course22056.sherlock4.login
-ADDED from /Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:19:9-43
-	android:name
-		ADDED from /Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:19:19-40
 activity#com.course22056.sherlock4.MainActivity
+ADDED from /Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from /Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:19:19-47
+activity#com.course22056.sherlock4.login
 ADDED from /Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:20:9-25:20
 	android:name
-		ADDED from /Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:20:19-47
+		ADDED from /Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:20:19-40
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/sarajensen/OneDrive - Danmarks Tekniske Universitet/Personlige bærbare sundhedsteknologier/Sherlock4/app/src/main/AndroidManifest.xml:21:13-24:29
 action#android.intent.action.MAIN

@@ -28,11 +28,16 @@
         <item>Neck</item>
 
     </string-array>
-    <string name="saraInfo">Sara Jensen <br> MSc Biomedical Engineering </br> <br> s172828@student.dtu.dk </br></string>
-    <string name="Edininfo">Edin Sadikovic <br> MSc Data Engineering </br> <br> s151980@student.dtu.dk </br></string>
+    <string name="saraInfo">Sara Jensen MSc Biomedical Engineering s172828@student.dtu.dk</string>
+    <string name="Edininfo">Edin Sadikovic <n> MSc Data Engineering </n> <n> s151980@student.dtu.dk </n></string>
     <string name="MichelleInfo">Michelle Skov Jensen <br> MSc Biomedical Engineering </br> <br> s164261@student.dtu.dk </br></string>
     <string name="CarolineInfo">Caroline Nave Øhrstrøm <br> MSc Biomedical Engineering </br> <br> s160621@student.dtu.dk </br> </string>
     <string name="aboutusInfo">This app investigates melanomas in order for you as a user to find out if your melanoma needs to be checked by a doctor. </string>
+
+
+
+
+
 
     <string name="info">The first five letters of the alphabet are a guide to help you recognize the warning signs of melanoma.
 
